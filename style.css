@@ -1,0 +1,23 @@
+body{
+    text-align:center;
+    background-color:darkred;
+    color:burlywood;
+}
+p{
+    font-family: 'Lobster Two', cursive;
+    font-size:30px;
+}
+h1{
+    font-family: 'Caprasimo', cursive;
+}
+img{
+    height:500px;
+    width:500px;
+    border-radius:75%;
+}
+ul{
+    list-style:disk;
+}
+li{
+    font-size:20px;
+}
